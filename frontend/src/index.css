@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.adminbg {
+  background-image: url('https://images.unsplash.com/photo-1486328228599-85db4443971f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dmVnaXRhYmxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cardbg {
+  background-image: url('https://www.agrifarming.in/wp-content/uploads/2020/01/Comp7.jpg');
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.adminHomebg {
+  background-image: url('https://static.euronews.com/articles/stories/04/53/86/40/1000x563_cmsv2_841eddcb-6979-59af-8c33-eb17501f085a-4538640.jpg');
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
